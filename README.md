@@ -96,6 +96,10 @@ Service SDK 8.0 uses Spring Boot 2.1 and Spring 5.1
 #### Quarkus Support for JDK 11
 They plan to drop Java 8 support in a few releases, probably around 1.6. Source: https://quarkus.io/blog/quarkus-1-3-1-final-released/
 
+#### GitHub Actions
+Java 11 will be the default JDK on the upcoming Ubuntu 20.04 VM image of #GitHub Actions and #Azure DevOps.
+https://t.co/Q7yTyBGqeo?amp=1
+
 ### Application servers impact
 
 | Application Server  | Version  | Supported Java Version  |  
