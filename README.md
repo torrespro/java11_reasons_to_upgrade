@@ -6,8 +6,8 @@ Oracle’s JDK 8 support roadmap [https://www.oracle.com/java/technologies/java-
 
 From Java 11, Oracle has changed the license of their JDK, so instead of having a single JDK build which can be used either commercially (i.e. with paid support) or for free (which many of us were doing), they now have two different JDK builds:
 
-Oracle’s JDK (commercial) – you can use this in development and testing for free, but if you use it in production you have to pay for it
-Oracle’s OpenJDK (open source) – you can use this for free in any environment, like any open source library
+- *Oracle’s JDK (commercial)* – you can use this in development and testing for free, but if you use it in production you have to pay for it
+- *Oracle’s OpenJDK (open source)* – you can use this for free in any environment, like any open source library
 Note that since Java 11, Oracle’s commercial JDK and Oracle’s OpenJDK builds are functionally the same, so we should be able to run our applications on either without having to make any changes or losing any features.
 
 ## Support and Updates
