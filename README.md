@@ -105,6 +105,7 @@ They plan to drop Java 8 support in a few releases, probably around 1.6. Source:
 | IBM WebSphere Liberty Core | 17.0.0   | 1.8  |  
 
 
-JBoss EAP 7.2 supports JDK 11, see https://access.redhat.com/articles/2026253
-Liberty is supported by any compliant Java™ SE 7, or Java SE 8 runtime environment (JRE) or Java SDK, subject to the minimum supported levels shown for the following specific implementations.
+- JBoss EAP 7.2 supports JDK 11, see https://access.redhat.com/articles/2026253
+
+- Liberty is supported by any compliant Java™ SE 7, or Java SE 8 runtime environment (JRE) or Java SDK, subject to the minimum supported levels shown for the following specific implementations.
 As of Liberty 19.0.0.1, any distribution of Java SE 11 may be used. The minimum supported level is Java version 11.0.2. Note that significant changes in the Java SE platform occurred between Java SE 8 and Java SE 11, so zero-migration is not guaranteed.
